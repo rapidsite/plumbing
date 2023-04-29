@@ -1,3 +1,7 @@
+export const config = {
+    runtime: 'edge',
+}
+
 const Services = [
     {
         Id: '1',

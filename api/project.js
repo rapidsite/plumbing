@@ -1,3 +1,7 @@
+export const config = {
+    runtime: 'edge',
+}
+
 const Projects = [
     {
         Id: '1',

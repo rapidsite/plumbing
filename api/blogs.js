@@ -1,3 +1,7 @@
+export const config = {
+    runtime: 'edge',
+}
+
 const blogs = [
     {
         id: '1',
@@ -39,4 +43,5 @@ const blogs = [
         blClass:'format-video',
     },
 ];
+
 export default blogs;

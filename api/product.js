@@ -5,6 +5,10 @@ import sp4 from '../images/shop/4.jpg'
 import sp5 from '../images/shop/5.jpg'
 import sp6 from '../images/shop/6.jpg'
 
+export const config = {
+  runtime: 'edge',
+}
+
 
 const Prtoducts = [
    {

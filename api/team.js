@@ -1,3 +1,7 @@
+export const config = {
+   runtime: 'edge',
+}
+
 const Team = [
     {
        Id:'1',
